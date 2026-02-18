@@ -1,7 +1,7 @@
 LAN Network Design using Cisco Packet Tracer
 
 📌Project Description
-This project demonstrates the design and simulation of a **Local Area Network (LAN)** for a small office environment using :contentReference[oaicite:0]{index=0}.  
+This project demonstrates the design and simulation of a Local Area Network (LAN) for a small office environment
 The network includes routers, switches, and end devices with proper IP addressing and connectivity verification using ICMP (ping).
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -24,9 +24,9 @@ The network includes routers, switches, and end devices with proper IP addressin
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 🧩 Network Components
-- Router (1)
-- Switch (1)
-- PCs / End Devices (4)
+- Router 
+- Switch 
+- PCs / End Devices 
 - Copper Straight-through cables
 
 ------------------------------------------------------------------------------------------------------------------------------------------
